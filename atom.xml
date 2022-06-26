@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.tianyang.life</id>
+    <title>闫天阳的小站</title>
+    <updated>2022-06-26T10:32:54.919Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.tianyang.life"/>
+    <link rel="self" href="https://blog.tianyang.life/atom.xml"/>
+    <subtitle>&lt;script src=&quot;https://www.tianyang.life/static/js/click.js&quot;&gt;&lt;/script&gt;
+&lt;script async src=&quot;//busuanzi.icodeq.com/busuanzi.pure.mini.js&quot;&gt;&lt;/script&gt;
+
+            &lt;span id=&quot;busuanzi_container_site_pv&quot;&gt;
+                &lt;i class=&quot;far fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;总访问量:&amp;nbsp;&lt;span id=&quot;busuanzi_value_site_pv&quot; class=&quot;white-color&quot;&gt;&lt;/span&gt;&amp;nbsp;次
+            &lt;/span&gt;
+            
+            
+            &lt;span id=&quot;busuanzi_container_site_uv&quot;&gt;
+                |&amp;nbsp;&lt;i class=&quot;fas fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;总访问人数:&amp;nbsp;&lt;span id=&quot;busuanzi_value_site_uv&quot;
+                    class=&quot;white-color&quot;&gt;&lt;/span&gt;&amp;nbsp;人
+            &lt;/span&gt;</subtitle>
+    <logo>https://blog.tianyang.life/images/avatar.png</logo>
+    <icon>https://blog.tianyang.life/favicon.ico</icon>
+    <rights>All rights reserved 2022, 闫天阳的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[I'm back!!!]]></title>
+        <id>https://blog.tianyang.life/post/im-back/</id>
+        <link href="https://blog.tianyang.life/post/im-back/">
+        </link>
+        <updated>2022-04-21T13:35:09.000Z</updated>
+        <content type="html"><![CDATA[<p>I'm back now.</p>
+]]></content>
+    </entry>
+</feed>
